@@ -19,3 +19,8 @@ https://colab.research.google.com/drive/1isMtLssAC2AotV_Y5GfqXn3jH3RR1swI?usp=sh
 
 Gaussian_Naive_Bayes :
 https://colab.research.google.com/drive/1K5bOkDW-jSy6vWabeaUJ-OfSlmtruEQt?usp=sharing
+
+
+
+Presentation Slides :
+https://docs.google.com/presentation/d/1tu6IHk1TEb7JJdXxelG-CIA3OgK175u-Uxj0vE_NKxo/edit?usp=sharing
