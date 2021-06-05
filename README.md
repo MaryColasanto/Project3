@@ -24,3 +24,7 @@ https://colab.research.google.com/drive/1K5bOkDW-jSy6vWabeaUJ-OfSlmtruEQt?usp=sh
 
 Presentation Slides :
 https://docs.google.com/presentation/d/1tu6IHk1TEb7JJdXxelG-CIA3OgK175u-Uxj0vE_NKxo/edit?usp=sharing
+
+
+### Flow Diagram
+![Flow Diagram](https://user-images.githubusercontent.com/71988949/120895883-9cdee200-c5e4-11eb-8083-e16c01131067.PNG)
