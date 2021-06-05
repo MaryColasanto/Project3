@@ -2,11 +2,17 @@
 wordcloud :
 https://colab.research.google.com/drive/1MgzXKGk1GDIPQtgXe5tBznSHFrki8SKi?usp=sharing
 
-RFC_IMDb :
+RFC_IMDb_70 :
 https://colab.research.google.com/drive/1iDS2ziWL2uzfC7qOiMgfnawNaItQe_sr#scrollTo=6ezFaZemj6mF
 
-NN_IMDb :
+NN_IMDb_70 :
 https://colab.research.google.com/drive/1fh_dG7BYoNw1v6Rpf6mVAuF-hConPsZm#scrollTo=xMQuWJDHb4M0
+
+RFC_IMDb_80:
+https://colab.research.google.com/drive/1gk4pxu5Ixi9DLMM487Uj1A6Cqth3NeMS#scrollTo=EUNGKjAHj6wZ
+
+NN_IMDb_80:
+https://colab.research.google.com/drive/19Bt6YBSu-hb6xnp1ZlXCpbFAz9VIyxLH#scrollTo=l899SfPFi9eR
 
 votes_by_gender_charts :
 https://colab.research.google.com/drive/1y4LbG0CVZolXnRrzQC-84mtzJYKTUDnt?usp=sharing
